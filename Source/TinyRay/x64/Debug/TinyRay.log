@@ -1,0 +1,68 @@
+﻿  RayTracer.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(84): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(200): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(201): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(202): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\raytracer.cpp(206): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Compiling...
+  Vector3.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\vector3.cpp(85): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\vector3.cpp(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\vector3.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\vector3.cpp(151): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Triangle.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\triangle.cpp(107): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  TestApplication.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Sphere.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\sphere.cpp(25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\sphere.cpp(67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Scene.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\scene.cpp(44): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\scene.cpp(55): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\scene.cpp(66): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\scene.cpp(134): warning C4305: 'argument': truncation from 'double' to 'float'
+  Ray.cpp
+  Plane.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\plane.cpp(47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Material.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Light.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\light.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\light.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Framebuffer.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Camera.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\camera.cpp(33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\camera.cpp(48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Box.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\box.cpp(29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\box.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\box.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\box.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\box.cpp(34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\box.cpp(35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\box.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\box.cpp(37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  AppWindow.cpp
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\francesco barsotti\desktop\graphic i ass2\tinyray\tinyray\material.h(48): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  TinyRay.vcxproj -> C:\Users\Francesco Barsotti\Desktop\Graphic I ass2\TinyRay\x64\Debug\TinyRay.exe
+  TinyRay.vcxproj -> C:\Users\Francesco Barsotti\Desktop\Graphic I ass2\TinyRay\x64\Debug\TinyRay.pdb (Full PDB)
